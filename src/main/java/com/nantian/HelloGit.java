@@ -8,7 +8,7 @@ public class HelloGit {
 		System.out.println("分支3");
 		System.out.println("主线添加");
 		System.out.println("分支1添加代码");
-
+		System.out.println("李四提交添加代码");
 	}
 
 }
